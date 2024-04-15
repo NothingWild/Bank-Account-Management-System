@@ -162,12 +162,6 @@ int main() {
   std::vector<Account> accounts;
   int choice;
 
-  std::cout<< "+--------------------------------------------------------------+"<< std::endl;
-  std::cout<< "|              Computer Science and Engineering                |"<< std::endl;
-  std::cout<< "|            CSCE 1040 - Computer Programming II               |"<< std::endl;
-  std::cout<< "|      Victor Pacheco     vmp0056      vmp0056@my.unt.edu      |"<< std::endl;
-  std::cout<< "+--------------------------------------------------------------+"<< std::endl;
-
   do {
     displayMenu();
     std::cout << "> ";
